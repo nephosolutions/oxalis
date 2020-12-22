@@ -63,7 +63,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <logback.version>1.2.3</logback.version>
         <joda.version>2.10</joda.version>
-        <mysql.version>5.1.43</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <jopt.version>4.9</jopt.version>
         <jersey.version>1.17</jersey.version>
         <bouncycastle.version>1.57</bouncycastle.version>
